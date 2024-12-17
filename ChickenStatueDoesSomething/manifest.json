@@ -1,0 +1,10 @@
+{
+  "Name": "Chicken Statue Does Something",
+  "Author": "John Peters (you know, the farmer?)",
+  "Version": "1.0.0",
+  "Description": "Placing a Chicken Statue in a coop gives bonuses to chicken friendship/mood.",
+  "UniqueID": "JohnPeters.ChickenStatueDoesSomething",
+  "EntryDll": "ChickenStatueDoesSomething.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [ "Nexus:30133" ]
+}
